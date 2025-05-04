@@ -1,5 +1,4 @@
-# M5 需要予測 - Kaggle Notebook プロジェクト
-
+# M5 需要予測 - Kaggle 
 このプロジェクトでは、Kaggle コンペティション「[M5 Forecasting - Accuracy](https://www.kaggle.com/competitions/m5-forecasting-accuracy)」のデータを用いて、小売商品の日次需要を予測するモデルを構築しています。
 
 Notebook は Kaggle 上で開発・実行されたもので、GitHub でのポートフォリオ公開を目的にエクスポートしたものです。
