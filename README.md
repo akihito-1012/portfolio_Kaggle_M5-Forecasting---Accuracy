@@ -51,3 +51,12 @@ Notebook は Kaggle 上で開発・実行されたもので、GitHub でのポ�
    - 提出用フォーマット（sample_submission.csvに準拠）
 
 ---
+
+## 🧪 モデル評価とKaggleスコア
+
+- **評価指標**：Weighted Root Mean Squared Scaled Error（RMSSE）  
+  M5コンペ特有のスケーリング付き時系列評価指標です。
+
+- **Kaggle スコア（Private Score）**：`0.73006`  
+- **ランキング（任意）**：732位 / 5582チーム中
+---
